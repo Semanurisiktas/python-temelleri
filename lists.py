@@ -26,6 +26,3 @@ print(userBname[0]) #Ekrana sadece 'Çınar' yazdırılır.
 #KISA YOL
 print(users[1][0]) #Ekrana sadece 'Çınar' yazdırılır.
 print(users[1][1]) #Ekrana 2 yazdırılır.
-
-
-

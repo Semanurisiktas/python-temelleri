@@ -86,6 +86,3 @@ print('*'*50)
 Aradğınız 100 nolu öğrencinin adı: Ali, soyadı: Turan ve telefonu ise 1234'dir.
 **************************************************
 '''
-
-
-

@@ -31,6 +31,3 @@ list = ['Ali', 'Ayşe']
 tuple = ('Semanur' , 'Zehranur')
 names = ('Vedat', 'Fatih', 'Ercan') + tuple #('Vedat', 'Fatih', 'Ercan', 'Semanur', 'Zehranur')
 print(names)
-
-
-

@@ -44,11 +44,3 @@ print(users['egecinar'])
 
 print(users['sadikturan']['email']) #sadikturan@gmail.com
 print(users['sadikturan']['roles'][0]) #admin
-
-
-
-
-
-
-
-
